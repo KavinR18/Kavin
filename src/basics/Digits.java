@@ -14,8 +14,8 @@ public class Digits {
 	int x,y,z,u;
 	x=num1/10;  //37
 	y=num1%10;  //6
-	z=x/10;
-	u=x%10;
+	z=x/10;//3
+	u=x%10;//7
 	System.out.println(z);
 	System.out.println(u);
 	System.out.println(y);
