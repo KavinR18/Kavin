@@ -36,8 +36,14 @@ public class Ifelse {
 	   
  //whether its positive or negative
 	     
-	   int a=-18;
-	   if(a>=0)
+	   int a=0;
+	   
+	   if(a==0)
+	   {
+		   System.out.println("Zero");
+	   }
+	   
+	   else if(a>0)
 	   {
 		   System.out.println("positive"); 
 		   }
