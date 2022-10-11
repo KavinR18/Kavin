@@ -8,7 +8,7 @@ public class Rightshiftarray {
 		int b=a[0];
 		
 		
-			for(int i=0;i<a.length;i++) {
+			for(int i=0;i<a.length-1;i++) {
 		a[i]=a[i+1];
 			
 		}
