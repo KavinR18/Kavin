@@ -10,6 +10,7 @@ public class Inheritance {
 		G.fly();
 		G.speak();
 		G.color();
+		
 	}
 
 }
