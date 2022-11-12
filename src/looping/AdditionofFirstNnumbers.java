@@ -1,4 +1,3 @@
-/* Decompiler 6ms, total 1653ms, lines 15 */
 package looping;
 
 public class AdditionofFirstNnumbers {
